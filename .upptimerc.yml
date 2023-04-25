@@ -19,9 +19,6 @@ status-website:
     - title: Status
       href: /
     - title: Grammle
-      href: https://grammle.de
+      href: "https://grammle.de"
     - title: Über
-      href: https://grammle.de/ueber
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: "https://grammle.de/ueber"
