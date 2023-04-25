@@ -13,9 +13,9 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://codeberg.org/Grammle/Grammle/raw/branch/master/assets/logo.png
   name: Upptime
-  introTitle: "**Upptime** passt auf, ob Grammle online ist
-  introMessage: Auf dieser Statusseite siehst du in **Echtzeit**, ob [grammle.de](https://grammle.de) gerade verfügbar ist, basierend auf Daten aus Grammles [GitHub-Repo](https://github.com/Grammle/status). Dank GitHub-Actions, -Issues und -Pages funktioniert das ganz ohne eigenen Server. Und weil [Upptime](https://upptime.js.org) quelloffen ist, kannst du dir auch [deine eigene Statussseite]((https://github.com/upptime/upptime) basteln! 
-  Germanynavbar:
+  introTitle: "**Upptime** passt auf, ob Grammle online ist"
+  introMessage: "Auf dieser Statusseite siehst du in **Echtzeit**, ob [grammle.de](https://grammle.de) gerade verfügbar ist, basierend auf Daten aus Grammles [GitHub-Repo](https://github.com/Grammle/status). Dank GitHub-Actions, -Issues und -Pages funktioniert das ganz ohne eigenen Server. Und weil [Upptime](https://upptime.js.org) quelloffen ist, kannst du dir auch [deine eigene Statussseite](https://github.com/upptime/upptime) basteln!" 
+  navbar:
     - title: Status
       href: /
     - title: Grammle
