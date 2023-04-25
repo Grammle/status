@@ -3,8 +3,12 @@ owner: Grammle # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: Grammle
+  - name: Grammle.de
     url: https://grammle.de
+  - name: Grammle auf Mastodon
+    url: https://bildung.social/@grammle
+  - name: Grammle auf Codeberg
+    url: https://codeberg.org/Grammle/Grammle
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
