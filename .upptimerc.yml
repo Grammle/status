@@ -1,5 +1,5 @@
 # Change these first
-owner: realpixelcode # Your GitHub organization or username, where this repository lives
+owner: Grammle # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
@@ -13,13 +13,15 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://codeberg.org/Grammle/Grammle/raw/branch/master/assets/logo.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/realpixelcode/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  introTitle: "**Upptime** passt auf, ob Grammle online ist
+  introMessage: Auf dieser Statusseite siehst du in **Echtzeit**, ob [grammle.de](https://grammle.de) gerade verfügbar ist, basierend auf Daten aus Grammles [GitHub-Repo](https://github.com/Grammle/status). Dank GitHub-Actions, -Issues und -Pages funktioniert das ganz ohne eigenen Server. Und weil [Upptime](https://upptime.js.org) quelloffen ist, kannst du dir auch [deine eigene Statussseite]((https://github.com/upptime/upptime) basteln! 
+  Germanynavbar:
     - title: Status
       href: /
     - title: Grammle
       href: https://grammle.de
+    - title: Über
+      href: https://grammle.de/ueber
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
