@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/grammle.de.ico",
     "slug": "grammle-de",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 3221,
-    "timeDay": 812,
-    "timeWeek": 3221,
-    "timeMonth": 3221,
-    "timeYear": 3221,
-    "dailyMinutesDown": {
-      "2023-04-26": 5,
-      "2023-04-25": 5
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2956,
+    "timeDay": 836,
+    "timeWeek": 2956,
+    "timeMonth": 2956,
+    "timeYear": 2956,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grammle auf Mastodon",
@@ -31,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 1044,
-    "timeWeek": 993,
-    "timeMonth": 993,
-    "timeYear": 993,
+    "time": 991,
+    "timeDay": 986,
+    "timeWeek": 991,
+    "timeMonth": 991,
+    "timeYear": 991,
     "dailyMinutesDown": {}
   },
   {
@@ -44,19 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeberg.org.ico",
     "slug": "grammle-auf-codeberg",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1118,
-    "timeDay": 1484,
-    "timeWeek": 1118,
-    "timeMonth": 1118,
-    "timeYear": 1118,
-    "dailyMinutesDown": {
-      "2023-04-26": 4,
-      "2023-04-25": 3
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1122,
+    "timeDay": 1147,
+    "timeWeek": 1122,
+    "timeMonth": 1122,
+    "timeYear": 1122,
+    "dailyMinutesDown": {}
   }
 ]
