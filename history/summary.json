@@ -4,18 +4,20 @@
     "url": "https://grammle.de",
     "icon": "https://icons.duckduckgo.com/ip3/grammle.de.ico",
     "slug": "grammle-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2712,
-    "timeDay": 512,
-    "timeWeek": 2712,
-    "timeMonth": 2712,
-    "timeYear": 2712,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3422,
+    "timeDay": 5518,
+    "timeWeek": 3422,
+    "timeMonth": 3422,
+    "timeYear": 3422,
+    "dailyMinutesDown": {
+      "2023-04-30": 1
+    }
   },
   {
     "name": "Grammle auf Mastodon",
