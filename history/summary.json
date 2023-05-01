@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/grammle.de.ico",
     "slug": "grammle-de",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 3189,
-    "timeDay": 3888,
-    "timeWeek": 3189,
-    "timeMonth": 3189,
-    "timeYear": 3189,
-    "dailyMinutesDown": {
-      "2023-04-30": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2994,
+    "timeDay": 3933,
+    "timeWeek": 2994,
+    "timeMonth": 2994,
+    "timeYear": 2994,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grammle auf Mastodon",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1021,
-    "timeDay": 1170,
+    "timeDay": 1022,
     "timeWeek": 1021,
     "timeMonth": 1021,
     "timeYear": 1021,
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 1002,
-    "timeWeek": 1107,
-    "timeMonth": 1107,
-    "timeYear": 1107,
+    "time": 1101,
+    "timeDay": 1052,
+    "timeWeek": 1101,
+    "timeMonth": 1101,
+    "timeYear": 1101,
     "dailyMinutesDown": {}
   }
 ]
