@@ -13,7 +13,7 @@
     "time": 2853,
     "timeDay": 839,
     "timeWeek": 1808,
-    "timeMonth": 3716,
+    "timeMonth": 3782,
     "timeYear": 2853,
     "dailyMinutesDown": {
       "2023-07-02": 119,
@@ -37,9 +37,9 @@
     "url": "https://bildung.social/@grammle",
     "icon": "https://icons.duckduckgo.com/ip3/bildung.social.ico",
     "slug": "grammle-auf-mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -48,7 +48,9 @@
     "timeWeek": 1165,
     "timeMonth": 1087,
     "timeYear": 1076,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-13": 0
+    }
   },
   {
     "name": "Grammle auf Codeberg",
