@@ -1,7 +1,7 @@
 url: https://grammle.de
-status: up
-code: 200
-responseTime: 1217
-lastUpdated: 2023-07-29T09:31:54.151Z
+status: down
+code: 500
+responseTime: 10693
+lastUpdated: 2023-07-29T16:24:05.975Z
 startTime: Tue Apr 25 2023 14:37:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
