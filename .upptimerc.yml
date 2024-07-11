@@ -22,7 +22,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Grammle
+    - title: Website
       href: "https://grammle.de"
     - title: Über
       href: "https://grammle.de/ueber"
