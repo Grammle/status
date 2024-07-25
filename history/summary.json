@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grammle.de.ico",
     "slug": "grammle-de",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.82%",
     "time": 3357,
-    "timeDay": 620,
-    "timeWeek": 682,
-    "timeMonth": 656,
+    "timeDay": 595,
+    "timeWeek": 662,
+    "timeMonth": 652,
     "timeYear": 3445,
     "dailyMinutesDown": {
       "2024-03-21": 319,
@@ -99,10 +99,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 999,
-    "timeDay": 693,
-    "timeWeek": 831,
-    "timeMonth": 828,
+    "time": 998,
+    "timeDay": 700,
+    "timeWeek": 778,
+    "timeMonth": 820,
     "timeYear": 971,
     "dailyMinutesDown": {}
   },
@@ -118,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 1777,
-    "timeDay": 858,
-    "timeWeek": 917,
+    "timeDay": 951,
+    "timeWeek": 913,
     "timeMonth": 948,
-    "timeYear": 1837,
+    "timeYear": 1836,
     "dailyMinutesDown": {
       "2024-03-21": 28,
       "2024-03-01": 192,
@@ -138,8 +138,7 @@
       "2023-08-28": 85,
       "2023-08-14": 28,
       "2023-07-29": 194,
-      "2023-07-27": 33,
-      "2023-07-26": 59
+      "2023-07-27": 33
     }
   }
 ]
