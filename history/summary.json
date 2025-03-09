@@ -6,15 +6,15 @@
     "slug": "grammle-de",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "86.21%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.47%",
     "uptimeMonth": "97.28%",
     "uptimeYear": "98.86%",
-    "time": 1886,
-    "timeDay": 2971,
-    "timeWeek": 2046,
-    "timeMonth": 2233,
-    "timeYear": 1773,
+    "time": 1885,
+    "timeDay": 548,
+    "timeWeek": 2125,
+    "timeMonth": 2254,
+    "timeYear": 1758,
     "dailyMinutesDown": {
       "2025-03-07": 198,
       "2025-03-03": 57,
@@ -76,8 +76,7 @@
       "2024-07-31": 19,
       "2024-03-21": 319,
       "2024-03-20": 190,
-      "2024-03-15": 21,
-      "2024-03-09": 17
+      "2024-03-15": 21
     }
   },
   {
@@ -92,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 823,
-    "timeDay": 447,
-    "timeWeek": 597,
+    "timeDay": 722,
+    "timeWeek": 605,
     "timeMonth": 624,
-    "timeYear": 745,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.73%",
-    "time": 1746,
-    "timeDay": 1852,
-    "timeWeek": 1391,
-    "timeMonth": 3443,
-    "timeYear": 1663,
+    "time": 1744,
+    "timeDay": 974,
+    "timeWeek": 1379,
+    "timeMonth": 3430,
+    "timeYear": 1662,
     "dailyMinutesDown": {
       "2025-02-14": 51,
       "2025-02-13": 324,
