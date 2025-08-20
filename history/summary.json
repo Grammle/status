@@ -103,9 +103,9 @@
     "url": "https://bildung.social/@grammle",
     "icon": "https://icons.duckduckgo.com/ip3/bildung.social.ico",
     "slug": "grammle-auf-mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +114,9 @@
     "timeWeek": 825,
     "timeMonth": 766,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Grammle auf Codeberg",
