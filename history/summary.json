@@ -4,18 +4,19 @@
     "url": "https://grammle.de",
     "icon": "https://icons.duckduckgo.com/ip3/grammle.de.ico",
     "slug": "grammle-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "98.36%",
-    "uptimeYear": "98.87%",
-    "time": 1777,
+    "uptimeYear": "98.88%",
+    "time": 1778,
     "timeDay": 762,
     "timeWeek": 1976,
     "timeMonth": 2844,
     "timeYear": 1719,
     "dailyMinutesDown": {
+      "2025-10-25": 0,
       "2025-10-21": 15,
       "2025-10-19": 41,
       "2025-10-17": 47,
@@ -85,7 +86,7 @@
       "2025-02-18": 170,
       "2025-02-17": 6,
       "2025-02-15": 85,
-      "2025-02-13": 462
+      "2025-02-13": 410
     }
   },
   {
