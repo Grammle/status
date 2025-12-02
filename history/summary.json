@@ -14,7 +14,7 @@
     "timeDay": 963,
     "timeWeek": 988,
     "timeMonth": 1137,
-    "timeYear": 1670,
+    "timeYear": 1672,
     "dailyMinutesDown": {
       "2025-11-18": 140,
       "2025-11-17": 39,
@@ -115,9 +115,9 @@
     "url": "https://codeberg.org/Grammle/Grammle",
     "icon": "https://icons.duckduckgo.com/ip3/codeberg.org.ico",
     "slug": "grammle-auf-codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.51%",
@@ -127,6 +127,7 @@
     "timeMonth": 1178,
     "timeYear": 1513,
     "dailyMinutesDown": {
+      "2025-12-02": 0,
       "2025-11-22": 24,
       "2025-11-18": 106,
       "2025-11-17": 48,
