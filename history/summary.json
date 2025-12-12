@@ -98,19 +98,19 @@
     "url": "https://bildung.social/@grammle",
     "icon": "https://icons.duckduckgo.com/ip3/bildung.social.ico",
     "slug": "grammle-auf-mastodon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 733,
-    "timeDay": 719,
-    "timeWeek": 789,
-    "timeMonth": 809,
-    "timeYear": 725,
+    "time": 731,
+    "timeDay": 595,
+    "timeWeek": 749,
+    "timeMonth": 798,
+    "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-12-12": 0
+      "2025-12-12": 11
     }
   },
   {
