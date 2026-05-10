@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.20%",
     "uptimeMonth": "98.70%",
-    "uptimeYear": "98.78%",
-    "time": 1494,
-    "timeDay": 820,
-    "timeWeek": 845,
+    "uptimeYear": "98.79%",
+    "time": 1493,
+    "timeDay": 794,
+    "timeWeek": 822,
     "timeMonth": 853,
-    "timeYear": 1447,
+    "timeYear": 1450,
     "dailyMinutesDown": {
       "2026-05-05": 181,
       "2026-04-19": 259,
@@ -77,8 +77,7 @@
       "2025-05-26": 88,
       "2025-05-19": 497,
       "2025-05-18": 152,
-      "2025-05-13": 133,
-      "2025-05-10": 110
+      "2025-05-13": 133
     }
   },
   {
@@ -92,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 485,
-    "timeWeek": 662,
-    "timeMonth": 670,
-    "timeYear": 771,
+    "time": 742,
+    "timeDay": 432,
+    "timeWeek": 617,
+    "timeMonth": 657,
+    "timeYear": 770,
     "dailyMinutesDown": {}
   },
   {
@@ -106,14 +105,14 @@
     "slug": "grammle-auf-codeberg",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "95.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.38%",
     "time": 1627,
-    "timeDay": 1183,
-    "timeWeek": 1584,
-    "timeMonth": 2336,
+    "timeDay": 929,
+    "timeWeek": 1573,
+    "timeMonth": 2330,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2026-05-08": 58,
@@ -162,8 +161,7 @@
       "2025-05-26": 88,
       "2025-05-19": 24,
       "2025-05-18": 18,
-      "2025-05-13": 81,
-      "2025-05-10": 20
+      "2025-05-13": 81
     }
   }
 ]
