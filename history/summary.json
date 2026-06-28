@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grammle.de.ico",
     "slug": "grammle-de",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "98.83%",
-    "time": 1568,
-    "timeDay": 900,
-    "timeWeek": 1071,
-    "timeMonth": 2506,
-    "timeYear": 1611,
+    "uptime": "99.52%",
+    "uptimeDay": "77.03%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.77%",
+    "time": 1569,
+    "timeDay": 0,
+    "timeWeek": 1014,
+    "timeMonth": 2558,
+    "timeYear": 1612,
     "dailyMinutesDown": {
       "2025-07-03": 69,
       "2025-07-06": 20,
@@ -73,7 +73,8 @@
       "2026-05-27": 467,
       "2026-06-14": 135,
       "2026-06-17": 262,
-      "2026-06-27": 3
+      "2026-06-28": 259,
+      "2026-06-27": 72
     }
   },
   {
@@ -87,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 625,
-    "timeWeek": 612,
-    "timeMonth": 645,
-    "timeYear": 766,
+    "time": 746,
+    "timeDay": 1101,
+    "timeWeek": 692,
+    "timeMonth": 665,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -100,15 +101,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeberg.org.ico",
     "slug": "grammle-auf-codeberg",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
-    "time": 1541,
-    "timeDay": 937,
-    "timeWeek": 1505,
-    "timeMonth": 2634,
+    "uptime": "99.65%",
+    "uptimeDay": "77.19%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.38%",
+    "time": 1540,
+    "timeDay": 443,
+    "timeWeek": 1403,
+    "timeMonth": 2614,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2025-07-03": 69,
@@ -152,7 +153,8 @@
       "2026-04-27": 234,
       "2026-05-03": 46,
       "2026-05-08": 58,
-      "2026-06-27": 0
+      "2026-06-28": 259,
+      "2026-06-27": 69
     }
   }
 ]
