@@ -1,7 +1,7 @@
 url: https://codeberg.org/Grammle/Grammle
-status: up
-code: 200
-responseTime: 2007
-lastUpdated: 2026-07-21T00:03:12.531Z
+status: down
+code: 503
+responseTime: 288
+lastUpdated: 2026-07-21T10:53:16.591Z
 startTime: 2023-04-25T14:37:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
