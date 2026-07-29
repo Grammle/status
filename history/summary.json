@@ -100,17 +100,17 @@
     "url": "https://codeberg.org/Grammle/Grammle",
     "icon": "https://icons.duckduckgo.com/ip3/codeberg.org.ico",
     "slug": "grammle-auf-codeberg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "92.38%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "99.17%",
-    "time": 1732,
-    "timeDay": 15635,
-    "timeWeek": 5220,
-    "timeMonth": 4436,
-    "timeYear": 1897,
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "91.59%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "99.15%",
+    "time": 1731,
+    "timeDay": 10728,
+    "timeWeek": 4861,
+    "timeMonth": 4350,
+    "timeYear": 1895,
     "dailyMinutesDown": {
       "2025-08-15": 16,
       "2025-08-18": 71,
@@ -159,7 +159,7 @@
       "2026-07-21": 83,
       "2026-07-26": 357,
       "2026-07-27": 411,
-      "2026-07-29": 0
+      "2026-07-29": 80
     }
   }
 ]
