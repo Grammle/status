@@ -83,18 +83,20 @@
     "url": "https://bildung.social/@grammle",
     "icon": "https://icons.duckduckgo.com/ip3/bildung.social.ico",
     "slug": "grammle-auf-mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 674,
-    "timeWeek": 722,
-    "timeMonth": 732,
-    "timeYear": 770,
-    "dailyMinutesDown": {}
+    "time": 822,
+    "timeDay": 17053,
+    "timeWeek": 4811,
+    "timeMonth": 1754,
+    "timeYear": 860,
+    "dailyMinutesDown": {
+      "2026-08-27": 0
+    }
   },
   {
     "name": "Grammle auf Codeberg",
@@ -105,12 +107,12 @@
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.21%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "99.09%",
     "time": 1801,
     "timeDay": 959,
     "timeWeek": 1303,
-    "timeMonth": 2974,
+    "timeMonth": 2634,
     "timeYear": 1958,
     "dailyMinutesDown": {
       "2025-09-03": 81,
